@@ -8,7 +8,6 @@
          alt = "New Watson Assistant Bank" />
 
 </head>
-<!--
 <script>
   window.wxOConfiguration = {
     orchestrationID: "f665a69257a9fbe8b8bf0f77bcee465e_cb18e62f-3b09-4337-a728-3693e9a8f16f",
@@ -17,8 +16,7 @@
     deploymentPlatform: "ibmcloud",
     crn: "crn:v1:bluemix:public:watsonx-orchestrate:us-south:a/f665a69257a9fbe8b8bf0f77bcee465e:cb18e62f-3b09-4337-a728-3693e9a8f16f::",
     chatOptions: {
-        agentId: "b753ff4e-e695-4a83-b1d7-20732c48b6ca", 
-        agentEnvironmentId: "3075c23e-744b-426a-9b64-fea574ce34fb",
+        agentId: "47370a18-ff6b-42a1-93a3-d0fe19ea1ab3", 
     }
   };
   setTimeout(function () {
@@ -30,8 +28,6 @@
     document.head.appendChild(script);
   }, 0);                     
 </script>
--->
-
 <script>
   window.watsonAssistantChatOptions = {
   integrationID: "48fd1e33-17cf-4bcc-96a9-8f82141ab263", // The ID of this integration.

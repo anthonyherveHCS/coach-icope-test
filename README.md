@@ -8,6 +8,7 @@
          alt = "New Watson Assistant Bank" />
 
 </head>
+
 <script>
   window.wxOConfiguration = {
     orchestrationID: "f665a69257a9fbe8b8bf0f77bcee465e_cb18e62f-3b09-4337-a728-3693e9a8f16f",
@@ -17,6 +18,7 @@
     crn: "crn:v1:bluemix:public:watsonx-orchestrate:us-south:a/f665a69257a9fbe8b8bf0f77bcee465e:cb18e62f-3b09-4337-a728-3693e9a8f16f::",
     chatOptions: {
         agentId: "47370a18-ff6b-42a1-93a3-d0fe19ea1ab3", 
+        agentEnvironmentId: "92b80ee7-508d-49df-b2d7-a1c7589a1369",
     }
   };
   setTimeout(function () {
@@ -27,8 +29,6 @@
     });
     document.head.appendChild(script);
   }, 0);                     
-</script>
-
 </script>
 
 <body></body>

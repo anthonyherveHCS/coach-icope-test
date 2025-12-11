@@ -5,8 +5,8 @@
     deploymentPlatform: "ibmcloud",
     crn: "crn:v1:bluemix:public:watsonx-orchestrate:us-south:a/f665a69257a9fbe8b8bf0f77bcee465e:cb18e62f-3b09-4337-a728-3693e9a8f16f::",
     chatOptions: {
-        agentId: "47370a18-ff6b-42a1-93a3-d0fe19ea1ab3", 
-        agentEnvironmentId: "92b80ee7-508d-49df-b2d7-a1c7589a1369",
+        agentId: "b753ff4e-e695-4a83-b1d7-20732c48b6ca", 
+        agentEnvironmentId: "3075c23e-744b-426a-9b64-fea574ce34fb",
     }
   };
   setTimeout(function () {

@@ -7,8 +7,7 @@
     showLauncher: true,
     crn: 'crn:v1:bluemix:public:watsonx-orchestrate:us-south:a/713c783d9a507a53135fe6793c24249a:6d322ff4-c015-4dba-8fc5-c1e5c6fdfe64::',
     chatOptions: {
-        agentId: 'e96d6c3d-5232-4389-9f37-c86af9546efa', 
-        agentEnvironmentId: 'ccd0d7de-c6e5-4c16-a8c9-9fdeb167c18b',
+        agentId: 'e96d6c3d-5232-4389-9f37-c86af9546efa'
     }
   };
   setTimeout(function () {

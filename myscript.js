@@ -1,4 +1,4 @@
-<script>
+
   window.wxOConfiguration = {
     orchestrationID: '713c783d9a507a53135fe6793c24249a_6d322ff4-c015-4dba-8fc5-c1e5c6fdfe64',
     hostURL: 'https://us-south.watson-orchestrate.cloud.ibm.com',
